@@ -37,7 +37,7 @@ An **end-to-end Multimodal AI Medical Assistant** that leverages **Retrieval-Aug
 - Streamlit
 
 **Generative AI**
-- Groq Llama 3.3 (70B)
+- Openai/gpt-oss-120b
 - LangChain
 - HuggingFace Sentence Transformers
 - Retrieval-Augmented Generation (RAG)
@@ -82,7 +82,7 @@ ChromaDB Vector Store
 Semantic Retrieval (RAG)
  │
  ▼
-Groq Llama 3.3
+Openai/gpt-oss-120b
  │
  ▼
 AI Response
